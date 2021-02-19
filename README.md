@@ -6,7 +6,6 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 ```
 
 ## Creational Patterns
-There are some Creational Patterns:
 1. Abstract Factory
 2. Builder
 3. Factory Method
@@ -14,7 +13,6 @@ There are some Creational Patterns:
 5. Singleton
 
 ## Structural Patterns
-There are some Structural Patterns:
 1. Adapter
 2. Bridge
 3. Composite
@@ -24,7 +22,6 @@ There are some Structural Patterns:
 7. Proxy
 
 ## Behavioral Patterns
-There are some Behavioral Patterns:
 1. Command
 2. Chain of Responsibility
 3. Iterator
