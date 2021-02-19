@@ -9,8 +9,34 @@ Structure:
 .
 ├── factory
 │   ├── adidas
+│   │   ├── adidas.go
+│   │   ├── adidasShirt.go
+│   │   └── adidasShoe.go
+│   ├── iSportsFactory.go
 │   └── nike
-└── item
+│       ├── nike.go
+│       ├── nikeShirt.go
+│       └── nikeShoe.go
+├── item
+│   ├── iShirt.go
+│   └── iShoe.go
+└── main.go
+```
+
+## Adapter
+
+> Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
+Structure:
+```sh
+.
+├── computer
+│   ├── client.go
+│   ├── computer.go
+│   ├── mac.go
+│   ├── windows.go
+│   └── windowsAdapter.go
+└── main.go
 ```
 
 ## Source
