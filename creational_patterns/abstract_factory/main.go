@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/kecci/design-pattern-go/abstract_factory/factory"
-	"github.com/kecci/design-pattern-go/abstract_factory/item"
+	"github.com/kecci/design-pattern-go/creational_patterns/abstract_factory/factory"
+	"github.com/kecci/design-pattern-go/creational_patterns/abstract_factory/item"
 )
 
 func main() {

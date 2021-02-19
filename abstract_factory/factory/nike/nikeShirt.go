@@ -1,7 +1,0 @@
-package nike
-
-import "github.com/kecci/design-pattern-go/abstract_factory/item"
-
-type nikeShirt struct {
-	item.Shirt
-}

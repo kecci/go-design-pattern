@@ -1,6 +1,6 @@
 package adidas
 
-import "github.com/kecci/design-pattern-go/abstract_factory/item"
+import "github.com/kecci/design-pattern-go/creational_patterns/abstract_factory/item"
 
 type Adidas struct {
 }
