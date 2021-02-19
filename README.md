@@ -1,5 +1,10 @@
 # design-pattern-go
 
+Install:
+```sh
+$ git clone https://github.com/kecci/design-pattern-go.git
+```
+
 ## Abstract Factory
 
 > Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
