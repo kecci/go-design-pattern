@@ -7,7 +7,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 
 ## Creational Patterns
 1. [Abstract Factory](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/abstract_factory#abstract-factory)
-2. Builder
+2. [Builder](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/builder#builder)
 3. Factory Method
 4. Prototype
 5. Singleton
