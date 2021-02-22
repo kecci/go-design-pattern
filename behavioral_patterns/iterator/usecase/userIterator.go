@@ -8,6 +8,7 @@ type UserIterator struct {
 func (u *UserIterator) HasNext() bool {
 	return u.Index < len(u.Users)
 }
+
 func (u *UserIterator) GetNext() *User {
 	if u.HasNext() {
 		user := u.Users[u.Index]
