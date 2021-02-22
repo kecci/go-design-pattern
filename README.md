@@ -10,7 +10,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 2. [Builder](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/builder)
 3. [Factory Method](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/factory_method)
 4. [Prototype](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/prototype)
-5. Singleton
+5. [Singleton](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/singleton)
 
 ## Structural Patterns
 1. [Adapter](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/adapter)
