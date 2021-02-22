@@ -18,7 +18,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 3. [Composite](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/composite)
 4. [Decorator](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/decorator)
 5. [Facade](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/facade)
-6. Flyweight
+6. [Flyweight](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/flyweight)
 7. Proxy
 
 ## Behavioral Patterns
