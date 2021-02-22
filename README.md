@@ -24,7 +24,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 ## Behavioral Patterns
 1. [Chain of Responsibility](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/chain_of_responsibility)
 2. [Command](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/command)
-3. Iterator
+3. [Iterator](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/iterator)
 4. Mediator
 5. Memento
 6. Observer
