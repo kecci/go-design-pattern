@@ -15,7 +15,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 ## Structural Patterns
 1. [Adapter](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/adapter)
 2. [Bridge](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/bridge)
-3. Composite
+3. [Composite](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/composite)
 4. Decorator
 5. Facade
 6. Flyweight
