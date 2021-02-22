@@ -16,7 +16,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 1. [Adapter](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/adapter)
 2. [Bridge](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/bridge)
 3. [Composite](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/composite)
-4. Decorator
+4. [Decorator](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/decorator)
 5. Facade
 6. Flyweight
 7. Proxy
@@ -34,3 +34,4 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 10. Visitor
 ## Source
 - https://refactoring.guru/design-patterns/go
+- https://golangbyexample.com/
