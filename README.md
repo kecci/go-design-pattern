@@ -27,7 +27,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 3. [Iterator](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/iterator)
 4. [Mediator](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/mediator)
 5. [Memento](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/memento)
-6. Observer
+6. [Observer](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/observer)
 7. State
 8. Strategy
 9. Template Method
