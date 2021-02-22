@@ -7,14 +7,14 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 
 ## Creational Patterns
 1. [Abstract Factory](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/abstract_factory#abstract-factory)
-2. [Builder](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/builder#builder)
+2. [Builder](https://github.com/kecci/design-pattern-go/tree/master/creational_patterns/builder)
 3. Factory Method
 4. Prototype
 5. Singleton
 
 ## Structural Patterns
-1. [Adapter](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/adapter#adapter)
-2. [Bridge](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/bridge#bridge)
+1. [Adapter](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/adapter)
+2. [Bridge](https://github.com/kecci/design-pattern-go/tree/master/structural_patterns/bridge)
 3. Composite
 4. Decorator
 5. Facade
@@ -22,8 +22,8 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 7. Proxy
 
 ## Behavioral Patterns
-1. Chain of Responsibility
-2. [Command](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/command#command)
+1. [Chain of Responsibility](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/chain_of_responsibility)
+2. [Command](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/command)
 3. Iterator
 4. Mediator
 5. Memento
