@@ -24,13 +24,19 @@ func main() {
 	o := usecase.Otp{
 		IOtp: smsOTP,
 	}
-	o.GenAndSendOTP(4)
+	err := o.GenAndSendOTP(4)
+	if err != nil {
+		fmt.Println(err.Error())
+	}
 
 	fmt.Println("")
 	emailOTP := &usecase.Email{}
 	o = usecase.Otp{
 		IOtp: emailOTP,
 	}
-	o.GenAndSendOTP(4)
+	err = o.GenAndSendOTP(4)
+	if err != nil {
+		fmt.Println(err.Error())
+	}
 
 }
