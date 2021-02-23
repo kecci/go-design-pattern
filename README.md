@@ -30,7 +30,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 6. [Observer](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/observer)
 7. [State](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/state)
 8. [Strategy](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/strategy)
-9. Template Method
+9. [Template Method](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/template_method)
 10. Visitor
 ## Source
 - https://refactoring.guru/design-patterns/go
