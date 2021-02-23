@@ -29,7 +29,7 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 5. [Memento](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/memento)
 6. [Observer](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/observer)
 7. [State](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/state)
-8. Strategy
+8. [Strategy](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/strategy)
 9. Template Method
 10. Visitor
 ## Source
