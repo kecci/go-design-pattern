@@ -32,6 +32,49 @@ $ git clone https://github.com/kecci/design-pattern-go.git
 8. [Strategy](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/strategy)
 9. [Template Method](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/template_method)
 10. [Visitor](https://github.com/kecci/design-pattern-go/tree/master/behavioral_patterns/visitor)
+
+## Synchronization Patterns
+1. Condition Variable
+2. Lock/Mutex
+3. Monitor
+4. Read-Write
+5. Semaphore
+
+## Concurrency Patterns
+1. N-Barrier
+2. Bounded Parallelism
+3. Broadcast
+4. Coroutines
+5. Generators
+6. Reactor
+7. Parallelism
+8. Producer Consumer
+
+## Messaging Patterns
+1. Fan-In
+2. Fan-Out
+3. Futures & Promises
+4. Publish/Subscribe
+5. Push & Pull
+
+## Stability Patterns
+1. Bulkheads
+2. Circuit-Breaker
+3. Deadline
+4. Fail-Fast
+5. Handshaking
+6. Steady-State
+
+## Profiling Patterns
+1. Timing Functions
+
+## Idioms
+1. Functional Options
+
+## Anti-Patterns
+1. Cascading Failures
+
 ## Source
+- https://github.com/tmrts/go-patterns
 - https://refactoring.guru/design-patterns/go
 - https://golangbyexample.com/
