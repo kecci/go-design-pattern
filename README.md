@@ -1,4 +1,4 @@
-# design-pattern-go
+# go-design-pattern
 
 Install:
 ```sh
