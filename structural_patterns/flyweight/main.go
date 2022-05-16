@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kecci/design-pattern-go/structural_patterns/flyweight/usecase"
+	"github.com/kecci/go-design-pattern/structural_patterns/flyweight/usecase"
 )
 
 func main() {

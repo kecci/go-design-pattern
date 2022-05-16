@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kecci/design-pattern-go/structural_patterns/composite/usecase"
+import "github.com/kecci/go-design-pattern/structural_patterns/composite/usecase"
 
 func main() {
 	file1 := &usecase.File{Name: "File1"}

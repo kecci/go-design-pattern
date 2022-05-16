@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kecci/design-pattern-go/behavioral_patterns/visitor/usecase"
+	"github.com/kecci/go-design-pattern/behavioral_patterns/visitor/usecase"
 )
 
 func main() {

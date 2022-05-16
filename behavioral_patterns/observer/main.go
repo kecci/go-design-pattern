@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kecci/design-pattern-go/behavioral_patterns/observer/usecase"
+import "github.com/kecci/go-design-pattern/behavioral_patterns/observer/usecase"
 
 func main() {
 

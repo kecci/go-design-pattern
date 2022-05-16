@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kecci/design-pattern-go/behavioral_patterns/iterator/usecase"
+	"github.com/kecci/go-design-pattern/behavioral_patterns/iterator/usecase"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/kecci/design-pattern-go/behavioral_patterns/state/usecase"
+	"github.com/kecci/go-design-pattern/behavioral_patterns/state/usecase"
 )
 
 func main() {

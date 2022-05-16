@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kecci/design-pattern-go/structural_patterns/proxy/usecase"
+	"github.com/kecci/go-design-pattern/structural_patterns/proxy/usecase"
 )
 
 func main() {

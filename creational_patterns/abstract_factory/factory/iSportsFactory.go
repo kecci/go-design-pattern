@@ -3,9 +3,9 @@ package factory
 import (
 	"fmt"
 
-	"github.com/kecci/design-pattern-go/creational_patterns/abstract_factory/factory/adidas"
-	"github.com/kecci/design-pattern-go/creational_patterns/abstract_factory/factory/nike"
-	"github.com/kecci/design-pattern-go/creational_patterns/abstract_factory/item"
+	"github.com/kecci/go-design-pattern/creational_patterns/abstract_factory/factory/adidas"
+	"github.com/kecci/go-design-pattern/creational_patterns/abstract_factory/factory/nike"
+	"github.com/kecci/go-design-pattern/creational_patterns/abstract_factory/item"
 )
 
 type iSportsFactory interface {

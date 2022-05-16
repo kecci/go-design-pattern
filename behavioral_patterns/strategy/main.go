@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kecci/design-pattern-go/behavioral_patterns/strategy/usecase"
+import "github.com/kecci/go-design-pattern/behavioral_patterns/strategy/usecase"
 
 func main() {
 	lfu := &usecase.Lfu{}

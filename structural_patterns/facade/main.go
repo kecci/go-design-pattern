@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/kecci/design-pattern-go/structural_patterns/facade/usecase"
+	"github.com/kecci/go-design-pattern/structural_patterns/facade/usecase"
 )
 
 func main() {

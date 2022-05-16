@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kecci/design-pattern-go/structural_patterns/adapter/computer"
+import "github.com/kecci/go-design-pattern/structural_patterns/adapter/computer"
 
 func main() {
 

@@ -1,3 +1,3 @@
-module github.com/kecci/design-pattern-go
+module github.com/kecci/go-design-pattern
 
-go 1.15
+go 1.16

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kecci/design-pattern-go/creational_patterns/prototype/usecase"
+	"github.com/kecci/go-design-pattern/creational_patterns/prototype/usecase"
 )
 
 func main() {
